@@ -4,7 +4,7 @@ import { useSelector } from 'react-redux'
 import { FaTimes } from "react-icons/fa";
 import { motion } from "motion/react";
 import { createPortal } from 'react-dom';
-import Auth from '../pages/auth';
+import Auth from '../pages/Auth';
 
 function AuthModel({onClose}) {
     const {userData} = useSelector((state)=>state.user)
