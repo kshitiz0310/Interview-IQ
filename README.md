@@ -88,13 +88,6 @@ AI_API_KEY=your_ai_api_key
 ```
 
 ---
-
-## 📸 Screenshots
-
-> *(Add screenshots here — landing page, interview simulation screen, performance report page)*
-
----
-
 ## 🧑‍💻 Author
 
 **Kshitiz Tiwari**
